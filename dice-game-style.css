@@ -1,0 +1,25 @@
+*{
+	font-family:Helvetica, Arial, san-serif;
+	text-align:center;
+}
+button{
+	background-color:#4CAF50;
+	border:none;
+	color:white;
+	padding:15px 32px;
+	text-align:center;
+	text-decoration:none;
+	display:inline-block;
+	font-size:16px;
+	margin:4px 2px;
+	cursor:pointer;
+}
+#placeholder{
+	height:100px;
+	width:100px;
+	padding:50px;
+	margin:50px auto;
+	border:1px solid gray;
+	border-radius:10px;
+	font-size:80px;
+}
