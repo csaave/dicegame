@@ -15,11 +15,24 @@ button{
 	cursor:pointer;
 }
 #placeholder{
-	height:100px;
-	width:100px;
+	height:300px;
+	width:250px;
 	padding:50px;
 	margin:50px auto;
 	border:1px solid gray;
 	border-radius:10px;
 	font-size:80px;
+	color:#ffffff;
+}
+body{
+	background-image: url(./rolling-dices.jpg);
+}
+#score{
+	color:#ffffff;
+	height:100;
+	width:50;
+	padding:50px;
+	margin:50px auto;
+	border:1px solid gray;
+	border-top:;
 }
